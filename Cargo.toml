@@ -9,5 +9,5 @@ readme = "README.md"
 keywords = ["no_std", "kernel", "interrupts"]
 license = "Apache-2.0 OR MIT"
 
-[dependencies.cpuio]
-version = "0.2.0"
+[dependencies]
+cpuio = "0.3.0"
